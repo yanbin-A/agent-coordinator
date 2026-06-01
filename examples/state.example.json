@@ -1,0 +1,15 @@
+﻿{
+  "version": 2,
+  "status": "idle",
+  "summary": "Coordinator initialized.",
+  "updated_at": null,
+  "active_task": null,
+  "agents": {
+    "codex": {"status": "available", "last_seen": null},
+    "claude-code": {"status": "available", "last_seen": null}
+  },
+  "tasks": [],
+  "messages": [],
+  "threads": [],
+  "conclusions": []
+}
